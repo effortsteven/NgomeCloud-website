@@ -1,0 +1,20 @@
+/* DEFAULT CSS */
+a{
+    color:dodgerblue
+}
+/* END DEFAULT CSS */
+.Header-flex-13 a, .MuiList-root-122 li a{
+    color: #fff;
+}
+.Footer-footer-287 ul li a{
+    color: #3c4858
+}
+a.Footer-a-288{
+    color: #03c5fa
+}
+/* MEDIA QUREIS */
+@media (max-width:700px){
+    .MuiList-root-122 li a{
+        color: #3c4858;
+    }
+}
